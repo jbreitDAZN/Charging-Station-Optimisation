@@ -1,0 +1,579 @@
+,Borough,Location,Spaces,Times of Operation,Rank No.,Notes,Longitude,Latitude
+0,Barking and Dagenham,Rainham Road South (Dagenham East Station),1,24 hours,5657,,0.1658388,51.5441807
+1,Barking and Dagenham,Station Parade/Wakering Road (Barking Station),17,24 hours,5722,,0.0818324,51.539692
+2,Barnet,Allum Way (Totteridge and Whetstone Station),2,Friday and Saturday 22:00 – 06:00,5833,,-0.1791503,51.6302347
+3,Barnet,Barnet General Hospital,3,24 hours,6030,Private land,-0.2144865,51.6506333
+4,Barnet,Brent Cross Station Car Park (Brent Cross Station),2,Friday and Saturday 22:00 – 06:00,5851,,-0.2130753,51.5766881
+5,Barnet,Chaville Way (Finchley Central Station),2,Friday and Saturday 22:00 – 06:00,5834,,-0.193361,51.601633
+6,Barnet,Station Forecourt (East Finchley Station),2,17:00 - 06:00,5819,,-0.2749306,51.6137296
+7,Barnet,North End Road (Golders Green Station),7,24 hours,5436,,-0.1944159,51.5722247
+8,Barnet,"Queen’s Road, Hendon",3,24 hours,5071,TLRN,-0.222922,51.5833102
+9,Barnet,Station Access Road (High Barnet Station),2,Friday and Saturday 22:00 – 06:00,5832,,-0.1939139,51.6503081
+10,Barnet,Station Road (Edgware Station),11,24 hours,5645,,-0.2753675,51.6134935
+11,Barnet,Watford Way (Hendon Central Station),2,19:00 – 07:00,5837,,-0.2267356,51.5830921
+12,Bexley,"Broadway, Bexleyheath",2,24 hours,6009,,0.1424217,51.4569453
+13,Brent,"Arena Square (Wembley Arena), Wembley",6,Not in operation during events when Boulevard Way is closed,5771,,-0.282586,51.558096
+14,Brent,Bridge Road/Brook Avenue/ Olympic Square (Wembley Park Station),17,24 hours,5583,,-0.2826604,51.5639301
+15,Brent,Brondesbury Road,2,24 hours,5889,,-0.1992286,51.5365386
+16,Brent,Chapter Road (Dollis Hill Station),2,24 hours,5829,,-0.2388817,51.552021
+17,Brent,Christchurch Avenue (Kilburn Station),2,24 hours,5828,,-0.2042087,51.5469276
+18,Brent,"Hilton London, Wembley",3,24 hours,5796,,-0.2821339,51.5576086
+19,Brent,Kingsbury Road (Kingsbury Station),2,24 hours,5196,,-0.2787047,51.5848468
+20,Brent,Neasden Lane (Neasden Station),2,24 hours,5830,,-0.2494249,51.5550799
+21,Brent,Queensbury Station Parade (Queensbury Station),2,24 hours,5831,,-0.2844311,51.5942342
+22,Brent,Station Crescent (Sudbury Town Station),2,24 hours,4431,,-0.316207,51.5503085
+23,Brent,Station Parade (Willesden Green Station),2,24 hours,5503,,-0.2221615,51.5495958
+24,Bromley,"High Street, Beckenham",2,18:00 - 06:00,5513,,-0.0275053,51.4075276
+25,Bromley,"High Street, Bromley (TK Maxx)",5,10:00 - 03:00,5529,,0.0153588,51.4019515
+26,Bromley,"High Street, Bromley",2,22:00 - 03:00,5542,,0.0151918,51.4033872
+27,Bromley,"High Street/Elmfield Park (Bromley South Station), Bromley",32,"    1st, 2nd and 3rd portion operates 24 hours     4th portion operates Monday – Saturday, 00.00 – 08.30 and 18.30 – 00:00 Sunday, 00:00 – 10:00 and 17:00 – 00:00",5891,4th portion is in a shared use parking bay,0.01752,51.4019
+28,Bromley,"High Street, Orpington, Kent",2,24 hours,5678,,0.1013163,51.3782725
+29,Bromley,"Homefield Rise (Sainsbury’s), Orpington, Kent",2,24 hours,4993,,0.1006197,51.3757922
+30,Bromley,"Market Square, Bromley",7,    1st portion operates 24 hours     2nd portion operates 22:00 – 03:00,5812,2nd portion is in a shared use loading bay,0.0149509,51.4056996
+31,Bromley,Orpington Station/Crofton Road,14,    1st and 2nd portions operates 24 hours     3rd portion operates 18:00 – 06:00,5877,3rd portion is in a shared use loading bay,0.08912,51.37329
+32,Bromley,"Petts Wood Square (Petts Wood Station), Orpington, Kent",2,16:00 – 02:00,5475,,0.0749346,51.3893273
+33,Bromley,"Station Approach (Hayes Station), Kent",2,17:00 – 01:00,5531,,0.0108849,51.3773921
+34,Bromley,"Walters Yard (Sainsbury’s), Bromley",6,24 hours,5105,,0.0144701,51.4066367
+35,Bromley,Widmore Road (Bibas),5,00:00 – 03:00,5061,,0.0169803,51.4062413
+36,Camden,Bayley Street (My Hotel Bloomsbury),2,24 hours,4139,,-0.1319172,51.5188555
+37,Camden,Bedford Avenue (St. Giles Hotel),2,24 hours,5043,,-0.1308194,51.5175189
+38,Camden,Bedford Row,3,24 hours,4204,Rest rank,-0.1160647,51.5198943
+39,Camden,Bedford Way (Royal National Hotel),2,24 hours,4616,,-0.1271038,51.5236776
+40,Camden,Beaumont Place (UCLH),2,24 hours,5997,,-0.1363551,51.5250834
+41,Camden,Camden High Street,4,19:00 – 07:00,4835,"Shared use loading
+bay",-0.1426218,51.5389287
+42,Camden,Camden High Street/Greenland Street,5,24 hours,4312,TLRN,-0.1419259,51.5381411
+43,Camden,Canfield Gardens (Finchley Road Station),1,24 hours,5535,TLRN,-0.1798917,51.546951
+44,Camden,Canfield Gardens (Waitrose/Finchley Road Station),6,24 hours,5534,TLRN,-0.1795884,51.546203
+45,Camden,Cardington Street (Ibis Hotel),2,24 hours,4914,,-0.1357976,51.5279248
+46,Camden,Cardington Street (Thistle Euston Hotel),2,24 hours,4427,,-0.1372782,51.5291423
+47,Camden,Carey Street (Chancery Lane),4,24 hours,3528,,-0.1115235,51.5152556
+48,Camden,Coram Street (Holiday Inn),4,24 hours,5545,,-0.1460253,51.540235
+49,Camden,Drury Lane (New London Theatre),3,20:30 – 06:30,5171,,-0.1226493,51.5152673
+50,Camden,Grays Inn Road (ITN),2,24 hours,5455,,-0.114136,51.5234388
+51,Camden,Great Queen Street (Kingsway Hall Hotel),3,24 hours,5365,,-0.120201,51.515897
+52,Camden,Great Russell Street (British Museum),2,24 hours,5233,,-0.1269566,51.5194133
+53,Camden,Great Russell Street,3,24 hours,5655,,-0.1271087,51.5179223
+54,Camden,Guilford Street (President Hotel),3,24 hours,4878,,-0.124076,51.522277
+55,Camden,Hampstead Road (Greater London House),4,19:00 – 16:00,5489,TLRN,-0.1396084,51.5336084
+56,Camden,Harrington Square (Mornington Crescent Station),1,19.00 – 07.00,5879,Shared use loading bay,-0.1390384,51.5340651
+57,Camden,Hawley Crescent,3,Saturdays and Sundays only,5300,,-0.1429936,51.5410721
+58,Camden,High Holborn (Shaftesbury Theatre),4,22:00 – 23:00,5516,,-0.1267694,51.5155077
+59,Camden,Holborn (Waterhouse Court),2,Not operational between 07:00 – 10:00,5620,,-0.1145147,51.5175802
+60,Camden,"Kilburn High Road (London Marriott Hotel), Maida Vale",3,24 hours,5262,,-0.1900823,51.5355553
+61,Camden,King’s Cross Bridge,2,24 hours,5237,TLRN,-0.1209407,51.530553
+62,Camden,Lincoln’s Inn Fields (north eastern side),4,24 hours,5676,Rest rank,-0.1143896,51.5167429
+63,Camden,Lincoln’s Inn Fields (east side),3,24 hours,4205,,-0.1169159,51.5157873
+64,Camden,Osnaburgh Terrance/Albany Street (The Melia White House),4,24 hours,5405,TLRN,-0.143647,51.52528
+65,Camden,Outer Circle (London Zoo),8,24 hours,5886,,-0.1534303,51.5352875
+66,Camden,Pancras Road (King’s Cross Station),36,24 hours,5708,,-0.1244124,51.5316509
+67,Camden,Queens Square (east side),2,24 hours,4203,,-0.1221481,51.5218427
+68,Camden,"Rosslyn Hill, Hampstead",10,24 hours,5609,,-0.1705421,51.5538858
+69,Camden,"Russell Square (north west arm, south east side)",11,24 hours,5701,Refreshment rank,-0.1249807,51.5221667
+70,Camden,Tavistock Square (Tavistock Hotel),2,24 hours,4557,,-0.1281586,51.5242017
+71,Camden,Tavistock Square (north side),2,24 hours,5449,,-0.1249079,51.5258366
+72,Camden,The Stables (Chalk Farm Road),2,    Monday to Friday 18:00 – 04:00     Saturday and Sunday 09:30 – 04:00,5772,,-0.1463064,51.541636
+73,Camden,Tottenham Court Rd (Grafton Way/Sainsbury’s),3,24 hours,5433,,-0.1372252,51.5242326
+74,Camden,Tottenham Court Road (Dominion Theatre),4,24 hours,5358,,-0.130143,51.5167472
+75,Camden,Tottenham Court Road (Spearmint Rhinos ),2,22:00 – 04:00,5638,,-0.1365444,51.5232663
+76,Camden,Tottenham Court Rd (Heals),2,24 hours,5399,,-0.1346757,51.5211364
+77,Camden,"Unnamed Service Road (O2 Centre), Finchley Road",2,24 hours,5818,,-0.1819715,51.5480381
+78,Croydon,Cherry Orchard Road (East Croydon Station),16,24 hours,5492,,-0.0929471,51.3746332
+79,Croydon,"High Street, Croydon",10,24 hours,5628,,-0.1001172,51.3706365
+80,Croydon,Lansdowne Road,5,24 hours,5797,,-0.093471,51.3784717
+81,Croydon,London Road (West Croydon Station),2,24 hours,5142,,-0.1025508,51.3784356
+82,Croydon,Mayday Road (Mayday Hospital),2,24 hours,5012,,-0.1111861,51.3892939
+83,Croydon,Park Street,3,18:00 – 06:00,5656,,-0.0983833,51.3734594
+84,Croydon,Poplar Walk (Marks and Spencer),2,24 hours,5618,,-0.1017623,51.3773557
+85,Croydon,South End,2,19:00 – 03:00,5462,,-0.099043,51.3654358
+86,Croydon,Station Road (Norwood Junction Station),2,24 hours,5845,,-0.0750027,51.3972772
+87,Croydon,Waddon Way (Hilton),3,24 hours,5320,,-0.1152285,51.3578175
+88,Croydon,Whytecliffe Road (Purley Station),6,16:00 – 06:00,5704,,-0.11401,51.33758
+89,Croydon,"Woburn Avenue, (Sainsbury's),",2,24 hours,5011,,-0.1177046,51.3757339
+90,Ealing,Boston Manor (Boston Manor Station),2,Friday and Saturday 22:00 – 06:00,5989,,-0.3247429,51.495767
+91,Ealing,Greenford Road (Tesco),2,24 hours,5659,,-0.2811731,51.5083517
+92,Ealing,Haven Green (Ealing Broadway Station),25,24 hours,5741,,-0.3019246,51.5149011
+93,Ealing,"High Street, Ealing",4,22:00 – 06:00,5543,,-0.2489958,51.5374539
+94,Ealing,Leeland Terrace (Sainsbury’s),2,24 hours,5550,,-0.3253979,51.5092548
+95,Ealing,Northfields Avenue (Northfields Station),3,Friday and Saturday 22:00 – 06:00,5990,,-0.3142307,51.4993588
+96,Ealing,Queen’s Drive (West Acton Station),2,Friday and Saturday 22:00 – 06:00,5992,,-0.2805145,51.5173115
+97,Ealing,South Ealing Road (South Ealing Station),2,24 hours,5785,,-0.3069393,51.5013134
+98,Ealing,Victoria Road (North Acton Station),2,Friday and Saturday 22:00 – 06:00,5991,,-0.2597097,51.5234468
+99,Enfield,Alderman’s Hill (Morrisons),2,24 hours,5428,,-0.110593,51.6176181
+100,Enfield,"Ashfield Parade, Southgate",5,24 hours,5794,,-0.1284453,51.6313167
+101,Enfield,Bowes Road (Arnos Grove Station),2,24 hours,5422,,-0.1334419,51.6163551
+102,Enfield,Chalk Lane (Cockfosters Station),2,24 hours,5343,,-0.1497377,51.6516667
+103,Enfield,Chase Side/The Bourne (Southgate Station),6,    1st and 3rd portion operates 18:30 – 02:00     2nd portion operates 24 hours,5780,,-0.1277873,51.6323049
+104,Enfield,"Lodge Drive, Palmers Green",2,24 hours,5069,,-0.1062517,51.6182159
+105,Enfield,"Montagu Road, Edmonton",5,Public and Jewish holidays only,5201,,-0.0493483,51.6211499
+106,Enfield,"New River Loop Car Park, Enfield Town",2,24 hours,5646,,-0.0799443,51.6529684
+107,Enfield,Station Forecourt (Oakwood Station),2,Friday and Saturday 23:00 – 05:00,5844,,-0.1318269,51.6476393
+108,Greenwich,Calderwood Street (Sainsbury’s),6,24 hours,5244,,0.0636417,51.4910658
+109,Greenwich,Creek Road (Up the Creek Club),2,20:00 – 05:00,5472,,-0.0116522,51.4812801
+110,Greenwich,Eltham Station (Glenlea Path),6,24 hours,5871,,0.0525,51.45564
+111,Greenwich,Greenwich Church Street (Cutty Sark DLR Station),2,24 hours,5789,,-0.0109331,51.4818003
+112,Greenwich,Greenwich Church Street (Cutty Sark),2,24 hours,5430,,-0.0095917,51.4828646
+113,Greenwich,Greenwich Church Street (Greenwich Market),2,19:00 – 07:00,5305,,-0.0090864,51.4815373
+114,Greenwich,Greenwich Church Street (Village Green Restaurant),2,19:00 – 07:00,6017,Shared use loading bay,-0.009828,51.4809757
+115,Greenwich,"Vincent Road (Woolwich Arsenal Station),",6,24 hours,5674,,0.0689395,51.4899958
+116,Hackney,Calvert Avenue (Shoreditch High Street),3,24 hours,5585,,-0.0780286,51.5264902
+117,Hackney,Ebor Street (Shoreditch House),2,24 hours,5700,,-0.0759327,51.5237811
+118,Hackney,Hackney Road (Ye Olde Axe),4,19:00 – 07:00,6001,,-0.0754264,51.5289704
+119,Hackney,Holywell Lane (Citizen M Hotel),2,19:00 – 07:00,6018,"TLRN
+Shared use loading bay",-0.0786853,51.5241386
+120,Hackney,Kingsland High Street (Dalston Kingsland Station),2,19:00 – 07:00,5802,"TLRN
+Shared use loading bay",-0.0756712,51.548156
+121,Hackney,Lesney Avenue (Here East/BT Sport),2,24 hours,5977,,-0.0224154,51.5475466
+122,Hackney,"Old Street (Courthouse Hotel), Hoxton",4,24 hours,5640,TLRN,-0.079615,51.527344
+123,Hackney,Sandringham Road,2,24 hours,5685,,-0.0693118,51.5498539
+124,Hackney,Stamford Hill,3,24 hours,4891,TLRN,-0.0742445,51.5682272
+125,Hackney,Stoke Newington Road (Birthdays bar),4,19:00 – 07:00,5777,Shared use loading bay,-0.0751978,51.5517829
+126,Hackney,Woodberry Down (Seven Sisters Road),5,24 hours,5608,,-0.0953475,51.5708928
+127,Hammersmith and Fulham,Erconwald Street (East Acton Station),3,Friday and Saturday 22:00 – 06:00,5987,,-0.2474664,51.5166167
+128,Hammersmith and Fulham,Hammersmith Broadway (Hammersmith Station),4,24 hours,5396,,-0.2248261,51.493483
+129,Hammersmith and Fulham,Hammersmith Road (Olympia),5,24 hours,3207,,-0.2106881,51.4965005
+130,Hammersmith and Fulham,Hurlingham Road (Hurlingham Park),12,Only in operation during designated events,5882,,-0.2014554,51.4689986
+131,Hammersmith and Fulham,Margravine Gardens (Barons Court Station),4,Friday and Saturday 22:00 – 06:00,5988,,-0.213467,51.4903046
+132,Hammersmith and Fulham,Shortlands (Novotel London West Hotel),5,24 hours,4595,,-0.2198412,51.4920396
+133,Hammersmith and Fulham,"Uxbridge Road, Shepherds Bush",3,24 hours,5552,,-0.2302985,51.506144
+134,Hammersmith and Fulham,Wood Lane (White City Station),3,Friday and Saturday 22:00 – 06;00,,,-0.2244726,51.5119361
+135,Haringey,Archway Road (Highgate Station),2,22:00 – 07:00,5981,TLRN,-0.14583,51.57753
+136,Haringey,Alexandra Palace (East Car Park),10,Only in operation during designated larger events,5745,,-0.1307733,51.5941783
+137,Haringey,Alexandra Palace (Outside main entrance to Palm Court/Bus Stop B),4,Only in operation during designated smaller events,5746,,-0.132877,51.593227
+138,Haringey,"Crouch End Hill, Crouch End",2,24 hours,5615,,-0.1259942,51.5762676
+139,Haringey,"Dukes Avenue, Muswell Hill",2,24 hours,5755,,-0.1370212,51.5934211
+140,Haringey,High Road/Gladstone Avenue (Wood Green Station),7,24 hours,5527,,-0.1118522,51.6000125
+141,Haringey,High Road (Lymington Avenue),2,24 hours,5564,,-0.1062917,51.593901
+142,Haringey,Langham Road (Turnpike Lane Station),2,24 hours,5874,,-0.1029911,51.5905216
+143,Haringey,Lordship Lane,2,24 hours,5526,,-0.0892143,51.5979094
+144,Haringey,Seven Sisters Road (Seven Sisters Road),2,19:00 – 07:00,5982,Shared use parking bay,-0.0961361,51.5705191
+145,Harrow,"Broadway Parade, Pinner Road",2,24 hours,4936,,-0.361614,51.5861305
+146,Harrow,College Road (Harrow on the Hill Station),14,24 hours,5530,,-0.3362965,51.5798828
+147,Harrow,Hailsham Drive (Harrow Court),3,24 hours,4979,,-0.3397867,51.593826
+148,Harrow,Rayners Lane (Rayners Lane Station),4,24 hours,5693,,-0.3708618,51.5751034
+149,Harrow,Service Road (Harrow and Wealdstone Station),3,24 hours,5401,,-0.3343863,51.5924252
+150,Harrow,South Hill Avenue (South Harrow Station),2,24 hours,5391,,-0.3496579,51.5630034
+151,Harrow,"Station Road, Harrow",3,24 hours,4903,,-0.332091,51.5842333
+152,Havering,Atlanta Boulevard (northern arm),3,24 hours,5716,,0.1825884,51.5743335
+153,Havering,Collier Row Road,2,24 hours,5858,,0.1521692,51.5975588
+154,Havering,Crossways (Gidea Park Station),3,24 hours,4999,,0.2057849,51.5815288
+155,Havering,Damyns Hall Aerodrome,20,Only in operation during designated events,5803,,0.245892,51.529245
+156,Havering,Dolphin Approach,3,24 hours,4965,,0.1863697,51.5804736
+157,Havering,Eastern Road (Romford Station),23,24 hours,5850,,0.1825151,51.5746711
+158,Havering,Havana Close,2,24 hours,5574,,0.182542,51.5754068
+159,Havering,High Street (George II)/Billet Lane,22,21:00 - 05:00,5852,,0.2186305,51.5657633
+160,Havering,"High Street, Romford",21,24 hours,5848,,0.178787,51.5776379
+161,Havering,"121 High Street, Hornchurch",2,18:00 – 06:00,5764,Shared use loading bay,0.2195375,51.5626061
+162,Havering,"128 High Street, Hornchurch",3,18:00 – 06:00,5765,Shared use loading bay,0.2194211,51.5624015
+163,Havering,"154 High Street, Hornchurch",3,24 hours,5766,,0.2202141,51.5620114
+164,Havering,Hilldene Avenue,2,24 hours,5883,,0.215546,51.6065749
+165,Havering,Station Lane (Hornchurch Station),2,24 hours,6019,,0.2190275,51.5540693
+166,Havering,Leather Lane (Sainsbury’s),3,24 hours,5001,,0.2182913,51.5630637
+167,Havering,London Road (Romford Stadium),3,22:00 – 23.00,5147,,0.166125,51.572335
+168,Havering,Station Road/Hall Lane (Upminster Station),9,24 hours,4865,,0.2506216,51.5589642
+169,Havering,Station Road (Harold Wood Station),6,24 hours,4693,,0.23315,51.59277
+170,Havering,The Broadway (Elm Park Station),10,24 hours,5547,,0.1991651,51.5498806
+171,Havering,Upminster Road (Upminster Bridge Station),4,18:00 – 07:30,5857,Shared use loading bay,0.235789,51.5588837
+172,Hillingdon,Great Central Avenue (South Ruislip Station),2,24 hours,3569,,-0.398232,51.556279
+173,Hillingdon,"High Street, (Uxbridge Station)",7,24 hours,5605,,-0.4780527,51.5464419
+174,Hillingdon,Reservoir Road (Ruislip Lido),2,24 hours,3763,,-0.434535,51.5905715
+175,Hillingdon,Ruislip Gardens Station Service Road (Ruislip Gardens Station),2,24 hours,5949,,-0.4109083,51.5605373
+176,Hillingdon,Station Approach (Ruislip Station),2,24 hours,5945,,-0.3986203,51.5565782
+177,Hounslow,Bath Road (Hounslow West Station),2,24 hours,5556,,-0.3857189,51.4731166
+178,Hounslow,Boston Manor Road (Boston Manor Park),12,Only in operation during designated events,5881,,-0.3186922,51.4895012
+179,Hounslow,Chiswick High Road (Gunnersbury Station),2,24 hours,5551,,-0.2754301,51.4914991
+180,Hounslow,Great West Road (Osterley Station),2,24 hours,6013,,-0.3494841,51.4815103
+181,Hounslow,"Heathfield Terrace, Chiswick",2,24 hours,5218,,-0.2654603,51.4914503
+182,Hounslow,Lampton Road,2,24 hours,5597,,-0.3658363,51.4738594
+183,Hounslow,Turnham Green Terrace (Turnham Green Station),4,24 hours,5494,,-0.2549973,51.4953024
+184,Islington,Berners Road (Business Design Centre),2,24 hours,5435,,-0.1047954,51.5355906
+185,Islington,Britannia Walk (Montcalm Hotel),2,24 hours,5885,,-0.0889875,51.527688
+186,Islington,Bunhill Row,3,24 hours,5477,,-0.0898283,51.5230782
+187,Islington,Charterhouse Street,7,13: 00 – 07:00,5791,,-0.1029867,51.5192836
+188,Islington,City Road (Moorfields Eye Hospital),2,24 hours,5116,TLRN,-0.0897546,51.5274163
+189,Islington,Duncan Street (Camden Passage),1,24 hours,5384,,-0.1043714,51.5347817
+190,Islington,Finsbury Park (Bus Station/Station Place),4,    1st portion operates 24 hours     2nd portion operates 19:00 – 07:00,5870,"2nd portion is in a shared use loading bay
+Island rank Haringey drivers",-0.10626,51.5643
+191,Islington,Finsbury Pavement,4,24 hours,5290,,-0.0874254,51.5199229
+192,Islington,"Finsbury Square (North West Corner), City Road",5,24 hours,5807,,-0.0857184,51.5210194
+193,Islington,Goswell Road (Citadines Apart’Hotel),2,24 hours,5155,,-0.0976554,51.5219351
+194,Islington,Gwynne Place (Travelodge),2,24 hours,5570,,-0.1142593,51.5271661
+195,Islington,Holloway Road (Waitrose),2,24 hours,5136,TLRN,-0.1041767,51.5469118
+196,Islington,"Junction Road, Archway",4,19:00 – 02:00,5786,"Island rank
+Haringey drivers",-0.1362607,51.5623492
+197,Islington,Lever Street (The Thistle City Barbican Hotel),3,24 hours,5044,,-0.0959396,51.5275353
+198,Islington,Liverpool Road (Sainsbury’s),4,24 hours,5720,,-0.1075263,51.5342122
+199,Islington,Ropemaker Street,3,24 hours,5643,,-0.0887139,51.5196271
+200,Kensington and Chelsea,Brompton Road (Harrods),8,24 hours,5318,TLRN,-0.163769,51.4998652
+201,Kensington and Chelsea,Brompton Road (The Collection),2,21:00 – 03:00,5757,,-0.1691186,51.4940077
+202,Kensington and Chelsea,Cadogan Place (Jumeirah Carlton Tower),5,24 hours,5152,,-0.1583237,51.4984732
+203,Kensington and Chelsea,Cadogan Place/Pont Street,18,24 hours,5479,Refreshment rank,-0.1576728,51.4973568
+204,Kensington and Chelsea,Chesham Place (Belgraves),2,24 hours,5616,,-0.1557603,51.49621
+205,Kensington and Chelsea,Cheyne Walk (western arm),1,24 hours,4713,,-0.1704918,51.4827846
+206,Kensington and Chelsea,Courtfield Road (Holiday Inn),2,24 hours,5719,,-0.1852035,51.4942548
+207,Kensington and Chelsea,Courtfield Road (Gloucester Road Station),3,24 hours,5084,,-0.1827368,51.4938704
+208,Kensington and Chelsea,Cromwell Gardens (V & A Museum),5,24 hours,5319,TLRN,-0.17218,51.4966392
+209,Kensington and Chelsea,Cromwell Road (Bratts),3,00:00 – 06:00,5111,TLRN,-0.183835,51.495171
+210,Kensington and Chelsea,Cromwell Road (Natural History Museum),2,24 hours,5817,TLRN,-0.1763672,51.496715
+211,Kensington and Chelsea,Cromwell Road (Queensberry Place),2,00:00 – 06:00,5577,TLRN,-0.1776276,51.4953851
+212,Kensington and Chelsea,Derry Street (Roof Gardens,2,24 hours,5663,,-0.191896,51.5010225
+213,Kensington and Chelsea,Earl’s Court Road (Earl’s Court Station),2,22:00 – 07:00,5835,"TLRN
+Shared use loading bay",-0.1930925,51.492186
+214,Kensington and Chelsea,Hans Crescent/Basil Street (Harrods),8,24 hours,5658,,-0.161589,51.500036
+215,Kensington and Chelsea,Hans Road (Harrods door 10),4,24 hours,5514,,-0.1630642,51.4985032
+216,Kensington and Chelsea,Harrington Gardens (Millennium Gloucester London Hotel),5,24 hours,4580,,-0.1834346,51.4935083
+217,Kensington and Chelsea,Harrington Road (South Kensington Station),11,24 hours,5666,,-0.1755238,51.4940056
+218,Kensington and Chelsea,Holland Park Avenue (London Kensington Hilton),6,24 hours,5299,,-0.2146577,51.504852
+219,Kensington and Chelsea,Kensington High Street (Bodo Schloss),2,22:00 – 05:00,5892,,-0.1880105,51.502662
+220,Kensington and Chelsea,Kensington Park Road (Ladbroke Road),18,24 hours,3995,Refreshment rank,-0.1977726,51.5098561
+221,Kensington and Chelsea,Kensington Road (Broadwalk),12,24 hours,5149,Refreshment rank,-0.1838797,51.5017249
+222,Kensington and Chelsea,Kensington Road (Kensington Court),3,24 hours,4858,,-0.1868664,51.5022554
+223,Kensington and Chelsea,King’s Road (Duke of York’s Square),3,24 hours,5465,,-0.1588201,51.4914553
+224,Kensington and Chelsea,King’s Road (Bluebird),2,13:00 – 02:00,5313,,-0.1754714,51.4849911
+225,Kensington and Chelsea,King’s Road (Raffles),2,22:00 – 05:00,5694,,-0.1737107,51.4853335
+226,Kensington and Chelsea,Lower Sloane Street (Sloane Club),1,24 hours,5091,,-0.1571699,51.4905254
+227,Kensington and Chelsea,Pavilion Road (Millennium Knightsbridge Hotel),1,24 hours,5160,,-0.1605381,51.4993756
+228,Kensington and Chelsea,Portobello Road (Electric Diner),3,21:00 – 03:00,5790,,-0.2048939,51.5155701
+229,Kensington and Chelsea,Queen's Gate (Kensington Road),1,24 hours,4435,,-0.1803884,51.5014618
+230,Kensington and Chelsea,Queen's Gate (Old Brompton Road),3,24 hours,4034,,-0.1783104,51.492096
+231,Kensington and Chelsea,Royal Hospital Chelsea (Chelsea Flower Show),9,Only in operation during the Chelsea Flower show,5754,,-0.1575795,51.4875836
+232,Kensington and Chelsea,Russell Road (London Olympia Hilton),6,24 hours,5496,,-0.2065722,51.4965767
+233,Kensington and Chelsea,Scarsdale Place (Copthore London Tara Hotel),5,24 hours,4556,,-0.1908758,51.4985245
+234,Kensington and Chelsea,Seville Street (Sheraton Park Tower),6,24 hours,4638,,-0.1588168,51.5016786
+235,Kensington and Chelsea,Sloane Avenue (Conrans),3,24 hours,5322,,-0.1683046,51.4931498
+236,Kensington and Chelsea,Sloane Avenue (Nell Gwynne House),1,24 hours,4928,,-0.1649474,51.4923053
+237,Kensington and Chelsea,Sloane Square,9,24 hours,5512,,-0.1570174,51.4927684
+238,Kensington and Chelsea,Thurloe Place,13,24 hours,4645,"TLRN
+Refreshment rank",-0.1720536,51.4956319
+239,Kensington and Chelsea,Walton Street,2,22:00 – 05:00,5706,,-0.1652466,51.4958228
+240,Kensington and Chelsea,Westbourne Grove (Portobello Road),4,24 hours,5622,,-0.203011,51.5135654
+241,Kingston Upon Thames,Clarence Street (John Lewis),6,24 hours,5707,,-0.306354,51.4115262
+242,Kingston Upon Thames,Clarence Street (Pryzm),8,    1st Portion operates 20:00 - 07:00     2nd Portion operates 22:00 - 07:00,5446,,-0.3000426,51.4115487
+243,Kingston Upon Thames,Clarence Street (Weston Park),3,24 hours,5215,,-0.3015651,51.4107712
+244,Kingston Upon Thames,Down Hall Road (Hilton Double Tree Hotel),2,24 hours,6010,,-0.3053273,51.4134885
+245,Kingston Upon Thames,Eden Street (Primark),4,24 hours,5427,,-0.3027007,51.4096586
+246,Kingston Upon Thames,High Street (Rose Theatre),4,    1st portion operates 19:00 - 02:00     2nd portion operates 10:30 - 02:00,5781,,-0.3075842,51.4086289
+247,Kingston Upon Thames,"High Street, New Malden",3,Mondays to Saturdays 08:00 - 18:30,5561,,-0.2559806,51.4012077
+248,Kingston Upon Thames,Surbiton Parade (Surbiton Station),5,24 hours,4980,,-0.3030717,51.3935289
+249,Kingston Upon Thames,Union Street (The Hippodrome),2,21:30 - 07:00,5661,,-0.3053987,51.4099347
+250,Kingston Upon Thames,Victoria Road (Sainsbury’s),1,24 hours,5221,,-0.3029537,51.4157931
+251,Kingston Upon Thames,Wood Street (Kingston Station),5,05:00 – 22:30,6020,South Side,-0.3012275,51.4126953
+252,Kingston Upon Thames,Wood Street (Kingston Station),5,22:30 – 05:00,6021,North Side,-0.3012275,51.4126953
+253,Lambeth,Albert Embankment (Park Plaza Riverbank Hotel),2,24 hours,5581,,-0.1214208,51.491367
+254,Lambeth,Belvedere Road (London Eye),2,24 hours,5563,,-0.1183974,51.5039786
+255,Lambeth,Clapham High Street,9,19:00 - 07:00,5787,"TLRN
+Shared use loading bay
+Island Rank Clapham extension area",-0.1332395,51.4635178
+256,Lambeth,Clapham Road (Stockwell Station),2,19:00 – 07:00,6014,"TLRN
+Shared use loading bay",-0.1232276,51.4714517
+257,Lambeth,Kennington Oval (East side),3,24 hours,5134,,-0.1139703,51.4831028
+258,Lambeth,Lambeth Road (Novotel),3,24 hours,5314,,-0.1186849,51.494665
+259,Lambeth,"South Lambeth Place, Vauxhall",4,24 hours,5533,TLRN,-0.1233208,51.4853813
+260,Lambeth,South Lambeth Road (Vauxhall Station),2,24 hours,5490,,-0.1227808,51.4860794
+261,Lambeth,The Pavement (Clapham Common Station),11,24 hours,5793,TLRN,-0.1383884,51.461786
+262,Lambeth,Upper Ground (ITV),1,24 hours,5279,,-0.111836,51.5073312
+263,Lewisham,Amersham Vale (New Cross Station),3,24 hours,5345,,-0.0316124,51.4770548
+264,Lewisham,Fernbrook Road (Hither Green Station),5,    1st portion operates 24 hours     2nd portion operates 16:00 – 07:00,6011,2nd portion shared use loading bay,-0.0002629,51.4531038
+265,Lewisham,Lewis Grove/Albion Way,7,24 hours,6003,,-0.0096503,51.4606994
+266,Lewisham,Lewisham Station,19,24 hours,6002,,-0.0131213,51.4652098
+267,Lewisham,New Cross Road (The Venue),4,22:00 – 06:00,6007,TLRN,-0.0371729,51.4757857
+268,Merton,"Aberconway Road, Morden",6,24 hours,4805,TLRN,-0.192013,51.4015535
+269,Merton,"Alexandra Road, Wimbledon",2,24 hours,5691,,-0.2034591,51.4240372
+270,Merton,"Church Road, Wimbledon (Gate 4 South)",30,Operates only during tennis championships,5587,,-0.2122886,51.4316837
+271,Merton,Christchurch Road (Colliers Wood Station),3,19:00 – 07:00,5985,"TLRN
+Shared use loading bay",-0.175973,51.4143682
+272,Merton,Coombe Lane (Raynes Park Station),2,    Monday to Saturday not in operation between 07.00 – 10.00 and 16.00 - 19.00     Sunday operates 24 hours,5634,,-0.2301665,51.4088439
+273,Merton,"High Street, Wimbledon",2,24 hours,5210,,-0.2191585,51.4254129
+274,Merton,London Road (Morden Station),4,19:00 – 07:00,5721,"TLRN
+Shared use loading bay",-0.1947068,51.402248
+275,Merton,Morden Road (South Wimbledon Station),2,Friday and Saturday 22:00 – 06:00,5995,,-0.191542,51.4103176
+276,Merton,"Somerset Road, Wimbledon",8,Operates only during tennis championships,5588,,-0.2188719,51.4333871
+277,Merton,The Broadway (Po Na Na),2,22:00 – 06:00,5128,,-0.2017497,51.4196089
+278,Merton,The Broadway (Centre Court Shopping Centre),2,24 hours,5679,,-0.2052755,51.4212531
+279,Merton,"Orinoco Lane, leading to Service Road, Wimbledon Station",4,24 hours,5692,,-0.2054832,51.4214125
+280,Merton,Worple Road (Sainsbury’s),3,24 hours,5382,,-0.1815746,51.4151621
+281,Newham,Cam Road (Gala Bingo Club),4,24 hours,5485,,-0.0014573,51.5377121
+282,Newham,High Street (East Ham Station),2,24 hours,5808,,0.0514335,51.5390451
+283,Newham,"Kempton Road, East Ham",6,24 hours,5180,,0.0584873,51.5357258
+284,Newham,Memorial Avenue (West Ham Station),2,19.00 – 07.00,5826,,0.0040313,51.539062
+285,Newham,Montfichet Road (Westfield Shopping Centre/Stratford Station),4,24 hours,5983,,-0.0072354,51.5431462
+286,Newham,Plaistow Road (Plaistow Station),7,24 hours,5505,,0.01785,51.5312296
+287,Newham,Queen’s Road (Upton Park Station),2,Not in operation during match days at the Boleyn Ground,5827,,0.035291,51.5353505
+288,Newham,Romford Road (Bow County Court),2,24 hours,5429,,0.010921,51.5431037
+289,Newham,Roundhouse Lane (Westfield Shopping Centre/Premier Inn Hotel),11,24 hours,5984,,-0.0091611,51.5441157
+290,Newham,Silvertown Way (Canning Town Interchange),2,24 hours,5301,,0.0114762,51.5119766
+291,Newham,Station Street (Stratford Station),13,24 hours,6026,,-0.001498,51.5400923
+292,Newham,Stratford International Station/Bus Station,10,24 hours,5979,,-0.0090218,51.5454778
+293,Newham,The Broadway (Broadway shopping centre),7,24 hours,5459,,0.0001968,51.5414986
+294,Newham,Westfield Avenue (Westfield Shopping Centre/Cow Public House),5,24 hours,5978,,-0.0072354,51.5431462
+295,Redbridge,Balfour Road (Ilford Station),7,24 hours,6032,,0.0710479,51.5606095
+296,Redbridge,Belgrave Road (Ilford Station),2,24 hours,6012,,0.06668,51.559456
+297,Redbridge,"Clarence Avenue, Ilford",5,24 hours,5673,,0.0638795,51.5757449
+298,Redbridge,"Court Way, Barkingside",4,24 hours,5537,,0.0820281,51.5875959
+299,Redbridge,Cranbrook Road (Faces),8,22:00 – 06:00,5630,,0.06834,51.577068
+300,Redbridge,Fairlop Station Forecourt,2,22:00 – 06:00,5824,,0.0909494,51.5957484
+301,Redbridge,"George Lane (Sainsbury’s), South Woodford",3,24 hours,5680,,0.0241753,51.5935698
+302,Redbridge,George Lane (Lizard Lounge),3,    Monday to Saturday operates 18:30 – 08:30     Sunday operates 24 hours,5795,Shared use pay and display bays,0.0239417,51.5945565
+303,Redbridge,81 George Lane (South Woodford Station),2,Friday and Saturday operates 22:00 – 06:00,5841,"Shared use parking
+bay",0.0276123,51.5920236
+304,Redbridge,97 George Lane (South Woodford Station),2,Friday and Saturday operates 22:00 – 06:00,5840,Shared use parking bay,0.0276123,51.5920236
+305,Redbridge,High Road (Clements Road),2,00:00 - 06:00,5575,,0.0756418,51.5594489
+306,Redbridge,High Road (Funky Mojoe),2,19:00 - 07:00,5782,"Shared use loading
+bay",0.0211748,51.5969134
+307,Redbridge,High Road (The Exchange),8,24 hours,5544,,0.0725629,51.5599303
+308,Redbridge,Newbury Park Station,2,24 hours,5813,,0.0903303,51.5756426
+309,Redbridge,Perth Road (Gants Hill Station),2,Friday and Saturday operates 22:00 – 06:00,5838,,0.0661732,51.5767812
+310,Redbridge,Service Road Entrance to Wanstead Station Car Park (Wanstead Station),2,22:00 – 06:00,5825,,0.046108,51.576428
+311,Redbridge,Snakes Lane East (Woodford Station),2,Friday and Saturday operates 22:00 – 06:00,5843,,0.0340548,51.6071983
+312,Redbridge,Tanners Lane (Sainsbury’s),2,24 hours,4956,,0.0817544,51.5884484
+313,Redbridge,Woodford Station Car Park (Woodford Station),2,Friday and Saturday operates 22:00 – 06:00,5842,,0.0333777,51.6061503
+314,Richmond Upon Thames,George Street (Tesco Metro),2,24 hours,5747,,-0.3038862,51.4606653
+315,Richmond Upon Thames,"Hill Street, Richmond",3,19:00 - 07:00,5454,,-0.3060872,51.4590199
+316,Richmond Upon Thames,Kew Road (Richmond Station),30,    3rd and 4th portions operate 19:00 - 07:00     All other portions operate 24 hours,5815,3rd and 4th portions in shared use loading bays,-0.3015346,51.4642281
+317,Richmond Upon Thames,Kew Road (Kew Gardens),10,Only in operation for designated events in Kew Gardens,5887,,-0.295573,51.4787438
+318,Richmond Upon Thames,London Road (Twickenham Station),7,19:00 – 07:00,5994,,-0.3301713,51.4503775
+319,Richmond Upon Thames,Station Road (Teddington Station),2,07:00 - 00:00,5749,,-0.333435,51.4263358
+320,Richmond Upon Thames,Victoria Road (Teddington Station),2,07:00 - 00:00,5750,,-0.3326431,51.4239356
+321,Richmond Upon Thames,Whittaker Avenue (All Bar One),3,19:00 - 07:00,5748,,-0.3049648,51.4576117
+322,Southwark,240 Blackfriars Road,1,24 hours,5822,TLRN,-0.1041179,51.5065297
+323,Southwark,Bermondsey Street,7,24 hours,5884,,-0.0818488,51.5007926
+324,Southwark,Camberwell Green,2,24 hours,5491,TLRN,-0.0921476,51.4749631
+325,Southwark,Holland Street (Tate Modern),7,24 hours,5996,,-0.100575,51.506565
+326,Southwark,Lambeth Road (Imperial War Museum),2,24 hours,5548,,-0.1086615,51.4958308
+327,Southwark,Meymott Street (Novotel Hotel),1,24 hours,5865,,-0.1048507,51.5051567
+328,Southwark,New Globe Walk (Globe Theatre),3,24 hours,5415,,-0.097194,51.508076
+329,Southwark,New Kent Road,3,24 hours,5558,TLRN,-0.0917865,51.4941287
+330,Southwark,Southwark Street (Borough High Street),2,24 hours,5578,TLRN,-0.0908322,51.5047443
+331,Southwark,Southwark Street (O’Meara Street),1,24 hours,5502,,-0.0939717,51.5047736
+332,Southwark,Surrey Quays Road (Canada Water Station),4,19:00 – 07:00,5946,Shared use loading bay,-0.0496621,51.4980014
+333,Southwark,St Thomas Street,6,24 hours,5876,,-0.0860355,51.5038174
+334,Southwark,Printworks (Southwark),40,Only in operation during designated events,5971,,-0.0455359,51.4966382
+335,Southwark,Upper Ground (The Mondrian Hotel),3,24 hours,5814,,-0.106863,51.5082017
+336,Sutton,Cheam Road (Liquid),3,23:00 - 03:00,5498,,-0.2029622,51.3604195
+337,Sutton,High Street/Mulgrave Road (Sutton Station),12,24 hours,5482,,-0.1910756,51.3596007
+338,Sutton,"Marshall’s Road, Sutton",2,Monday to Saturday operates 08:00 - 18.30,5705,,-0.1941683,51.3677055
+339,Sutton,Wrythe Lane (St. Helier Hospital),3,24 hours,5056,,-0.1844186,51.3803117
+340,Tower Hamlets,Bethnal Green Road (Tesco),4,Sundays does not operate between 07:00 - 10:00 and 17:00 - 20:00,5642,,-0.0611683,51.5270328
+341,Tower Hamlets,Columbia Road (Columbia Flower Market),2,Sunday only 09:00 – 15:00,5849,,-0.069809,51.529129
+342,Tower Hamlets,East Smithfield (Royal Mint Court),3,24 hours,5451,TLRN,-0.0693194,51.5087004
+343,Tower Hamlets,"Mile End Road/Maplin Street, (Mile End Station)",7,24 hours,5675,TLRN,-0.0334172,51.5251447
+344,Tower Hamlets,"Royal Gate West, Victoria Park",15,Only in operation during designated events,5762,,-0.0428835,51.5369636
+345,Tower Hamlets,St. Stephen's Road (Roman Road Market),1,24 hours,5557,,-0.0295187,51.5329334
+346,Tower Hamlets,Trinity Square (Tower Hill Station),2,24 hours,5269,,-0.07479,51.51062
+347,Waltham Forest,Church Lane (Leytonstone Station),2,24 hours,5368,,0.0085202,51.5682599
+348,Waltham Forest,Grove Green Road (Leytonstone Station),2,24 hours,5439,,0.0085202,51.5682599
+349,Waltham Forest,Lea Bridge Road (Ibis Styles Hotel),2,24 hours,5792,,-0.0156747,51.5736424
+350,Waltham Forest,Selborne Road (north side of Walthamstow Central Station),2,19:00 – 05:00,5235,,-0.019886,51.5830128
+351,Waltham Forest,Selborne Road (Walthamstow Central Station),5,16:00 – 06:00,6008,,-0.0198832,51.5830044
+352,Wandsworth,"Augustus Road, Southfields",19,Operates only during tennis championships,5639,,-0.2110585,51.4445994
+353,Wandsworth,Balham Hill (Clapham South Station),2,19:00 – 07:00,5836,"TLRN
+Shared use loading bay",-0.1478256,51.4528116
+354,Wandsworth,Balham Station Road (Balham Station),7,24 hours,5665,,-0.1524,51.44322
+355,Wandsworth,Battersea Park (Chelsea Gate),12,Operates during designated event,5888,,-0.149529,51.483263
+356,Wandsworth,Garratt Lane (Arndale/Southside),6,24 hours,5644,"Island rank Merton
+and Sutton drivers",-0.1940819,51.4553879
+357,Wandsworth,Garratt Lane (Sainsbury's),5,24 hours,5086,Island rank Merton and Sutton drivers,-0.1918526,51.4545168
+358,Wandsworth,High Street (Putney Station),4,24 hours,5751,Island rank Richmond upon Thames drivers,-0.2158717,51.4632453
+359,Wandsworth,Mitcham Road (Tooting Broadway Station),2,24 hours,5006,"Island rank Merton
+and Sutton drivers",-0.1677608,51.4276384
+360,Wandsworth,Northcote Road,4,19:00 – 07:00,5798,TLRN,-0.1656169,51.4570873
+361,Wandsworth,Stapleton Road (Tooting Bec Station),2,19:00 – 07:00,5980,Shared use loading bay,-0.1594981,51.4355307
+362,Wandsworth,St. John’s Hill/Prested Road (Clapham Junction Station),8,24 hours,5703,,-0.1708113,51.4651737
+363,Wandsworth,Upper Richmond Road,3,19:00 – 07:00,5752,Island rank Richmond upon Thames drivers,-0.2269572,51.4629733
+364,Wandsworth,Werter Road (Sainsbury’s),2,24 hours,5032,,-0.2155139,51.46218
+365,Wandsworth,Wimbledon Park Road (Southfields Station),2,Does not operate during tennis championships,5619,Island rank Merton and Sutton drivers,-0.2065672,51.4453602
+366,Westminster,Acacia Road (St. John’s Wood Station),7,24 hours,4489,,-0.1740969,51.5347066
+367,Westminster,Adams Row/Mount Row (Millennium London Mayfair Hotel),9,24 hours,5302,,-0.1509254,51.5105375
+368,Westminster,Albermarle Street (Rocco Forte Browns Hotel),2,24 hours,5267,,-0.1421113,51.509128
+369,Westminster,Aldwych,5,24 hours,3915,Rest rank R0001,-0.1171832,51.5132657
+370,Westminster,Aldwych (Waldorf Hilton Hotel),5,24 hours,3914,,-0.1189734,51.5125366
+371,Westminster,Aldwych (One Aldwych Hotel),2,24 hours,5331,,-0.11934,51.5117908
+372,Westminster,Aldwych (ME Hotel),2,24 hours,5767,,-0.1186952,51.5118147
+373,Westminster,Air Street (Cafe Royal Hotel),5,24 hours,5686,,-0.1363591,51.5101943
+374,Westminster,Argyll Street (London Palladium),4,21:00 – 04:00,5660,,-0.1405622,51.5145441
+375,Westminster,Arlington Street (Bennet Street),2,24 hours,4150,,-0.1407477,51.506935
+376,Westminster,Arlington Street (The Ritz Hotel),2,24 hours,5252,,-0.1405892,51.5065183
+377,Westminster,Arundel Street,2,24 hours,5315,Rest rank R0002,-0.1143676,51.5125289
+378,Westminster,Baker Street (Dorset Street),3,24 hours,4975,,-0.1562937,51.5194691
+379,Westminster,Balderton Street (The Beaumont Hotel),3,24 hours,5820,,-0.1521494,51.5128345
+380,Westminster,Belgrave Square (north east corner),2,24 hours,4412,,-0.152791,51.4985756
+381,Westminster,Belgrave Square (north west corner),2,24 hours,3738,,-0.152791,51.4985756
+382,Westminster,Berkeley Square (40 Berkeley Square),3,24 hours,5868,,-0.1470975,51.5097416
+383,Westminster,Berkeley Square (Berkeley Square House),2,24 hours,5600,,-0.1444328,51.509827
+384,Westminster,Berkeley Square (north west corner),2,    Rest Rank: 06:00 – 00:00     Working Rank: 00:00 – 06:00,5862,Rest Rank R0023,-0.1459015,51.5094967
+385,Westminster,Berkeley Square (south side),4,24 hours,5651,,-0.1463001,51.5094238
+386,Westminster,Berkeley Street (Holiday Inn),2,24 hours,5014,,-0.142449,51.507658
+387,Westminster,Berkeley Street (Novikov),5,24 hours,6005,,-0.1429232,51.5076236
+388,Westminster,Berkeley Street (Nobu),5,19:00 – 04:00,5647,,-0.1433108,51.5084529
+389,Westminster,Berners Street (London Edition Hotel),3,24 hours,5816,,-0.135965,51.5167472
+390,Westminster,Berners Street (Sanderson Hotel),2,24 hours,5379,,-0.137041,51.5173664
+391,Westminster,Bishop’s Bridge Road (feeder for Paddington Station rank),10,24 hours,5711,,-0.1769328,51.5166744
+392,Westminster,Bolsover Street (Holiday Inn London Regents Park Hotel),3,24 hours,5592,,-0.1426128,51.5222472
+393,Westminster,Brewer Street (Madame Jojo's),3,24 hours,5017,,-0.1338545,51.5124934
+394,Westminster,Brick Street (Park Lane Hotel),4,24 hours,4863,,-0.1166864,51.5009572
+395,Westminster,Broadway (Queen Anne’s Gate),3,24 hours,6006,,-0.1329846,51.5005499
+396,Westminster,Brook Street (Claridges),4,24 hours,6023,,-0.1478891,51.5124781
+397,Westminster,Bruton Street (Hakkasan),5,18:30 – 08:30,5821,Shared use parking bay,-0.1450005,51.5102647
+398,Westminster,Bryanston Street/Granville Place (Amba Hotel Marble Arch),6,24 hours,4802,,-0.1565506,51.5144004
+399,Westminster,Buckingham Gate (St. James Court Hotel),7,24 hours,5078,,-0.1372296,51.4985238
+400,Westminster,Burlington Gardens (Museum of Mankind),2,24 hours,4182,,-0.1405829,51.5098701
+401,Westminster,Burwood Place (Edgware Road),1,Monday to Saturday operates 07:00 - 19:00,4849,,-0.165669,51.5168714
+402,Westminster,Burwood Place (Edgware road),2,    Monday to Saturday operates 19:00 - 07:00     Sunday operates 24 hours,4849,,-0.165669,51.5168714
+403,Westminster,Bury Street (Quaglino’s),4,14:00 - 06:30,5594,,-0.1389263,51.5074754
+404,Westminster,Carlos Place (The Connaught),2,24 hours,5668,,-0.1498169,51.5102521
+405,Westminster,Cavendish Square (John Lewis),6,24 hours,5576,,-0.145197,51.5154109
+406,Westminster,Caxton Street (St. Ermin’s Jolly Hotel),4,24 hours,3998,,-0.1344175,51.4991371
+407,Westminster,Charing Cross Road,10,"    1st portion rest rank between 08:30 - 20:00, working rank between 20:00 - 03:00     2nd Portion operates 20:00 - 03:00",5758,,-0.1287548,51.5126245
+408,Westminster,Charles Street (Chesterfield Hotel),3,24 hours,4875,,-0.1471358,51.5076899
+409,Westminster,Chelsea Bridge Road (Lister Hospital),2,24 hours,5560,,-0.150559,51.486454
+410,Westminster,Conduit Street,2,24 hours,5866,Rest Rank R0029,-0.1419696,51.5121836
+411,Westminster,Conduit Street (Sketch),3,18:30 - 08:30,5677,,-0.141529,51.512693
+412,Westminster,Conduit Street (Westbury Hotel),3,24 hours,5683,,-0.1426439,51.5112589
+413,Westminster,Coventry Street/Oxendon Street,14,    1st portion operates 21:30 - 08:00     2nd to 5th portions operate 18:30 - 08:30,5670,,-0.1322833,51.5102955
+414,Westminster,Coventry Street (Troccadero),3,24 hours,5572,,-0.1329675,51.5106013
+415,Westminster,Cranbourn Street (Leicester Square Station),5,00:00 – 11:00,5737,,-0.128144,51.511451
+416,Westminster,Curzon Street (Bolton Street),2,24 hours,4949,"Rest Rank
+R0018",-0.145135,51.5076953
+417,Westminster,Curzon Street (Curzon Place),2,24 hours,5864,,-0.1508611,51.5063075
+418,Westminster,Curzon Street (Washington Hotel),2,24 hours,4475,,-0.1461144,51.5071657
+419,Westminster,Davies Street (C London Restaurant),2,24 hours,6022,,-0.1478879,51.5112162
+420,Westminster,Deanery Street/Stanhope Gate (Dorchester Hotel),10,24 hours,5373,TLRN,-0.1524156,51.5074354
+421,Westminster,"Devonshire Place (Marylebone Road, The London Clinic)",2,24 hours,5590,,-0.1498656,51.5230212
+422,Westminster,Dover Street,5,    Rest rank between: 08:30 – 18:30     Working rank between: 18:30 – 08:30,5863,Rest Rank R0022,-0.1421616,51.5084
+423,Westminster,Dover Street (Mahiki),4,    Rest rank between: 04:00 – 18:30     Working rank between: 18:30 – 04:00,5861,Rest Rank R0023,-0.1413888,51.5077555
+424,Westminster,Down Street (Athenaeum Hotel),4,24 hours,4706,,-0.1475618,51.504716
+425,Westminster,Duke Street (Selfridges),2,24 hours,5565,,-0.1510434,51.5138874
+426,Westminster,Eccleston Bridge,5,24 hours,5654,Rest rank R0003,-0.1456149,51.4938036
+427,Westminster,Eccleston Place (Victoria Coach Station),8,24 hours,5788,,-0.1481615,51.4925005
+428,Westminster,Edgware Road (Crawford Place),4,24 hours,5321,TLRN,-0.1666556,51.5176535
+429,Westminster,"Elgin Avenue, Maida Vale",6,24 hours,5426,,-0.1908648,51.5276801
+430,Westminster,Embankment Place (Northumberland Avenue),13,24 hours,4982,Also refreshment rank,-0.1233294,51.5066578
+431,Westminster,Exeter Street (Strand Palace Hotel),3,24 hours,5506,,-0.1206784,51.5108951
+432,Westminster,George Street (Durrants Hotel),2,24 hours,5239,,-0.1529794,51.5179386
+433,Westminster,George Yard (Marriott Hotel),5,24 hours,5607,,-0.119174,51.5010534
+434,Westminster,"Gerrard Place, Soho",2,18:30 – 06:30,5090,,-0.1302694,51.5124557
+435,Westminster,Gillingham Street,3,24 hours,5744,Rest rank R0015,-0.1424859,51.4934372
+436,Westminster,Great Cumberland Place/Bryanston Street  (The Cumberland – A Guoman Hotel),14,    1st portion operates 24 hours     2nd and 3rd portions operates 08:00 – 00:00,5203,,-0.1586045,51.5138631
+437,Westminster,Great Cumberland Place (The Montcalm Hotel),2,24 hours,4583,,-0.1594199,51.5152775
+438,Westminster,"Great Marlborough Street (Courthouse, Double Tree Hilton)",2,24 hours,5500,,-0.1394682,51.5143566
+439,Westminster,Great Marlborough Street (Marks and Spencer),2,24 hours,5627,,-0.140927,51.497666
+440,Westminster,Great Portland Street (Margaret Street),1,24 hours,4603,Rest rank R0004,-0.1412063,51.5166714
+441,Westminster,Grosvenor Crescent (The Lanesborough),4,24 hours,5000,,-0.152738,51.5022083
+442,Westminster,Grosvenor Gardens/Hobart Place,14,24 hours,5773,Refreshment rank,-0.1469381,51.4981021
+443,Westminster,Grosvenor Street,3,24 hours,4045,Rest rank R0005,-0.1475014,51.5116643
+444,Westminster,Half Moon Street (Flemings Hotel),2,24 hours,5323,,-0.145166,51.5064379
+445,Westminster,Hamilton Place (Four Seasons Hotel),5,24 hours,4457,,-0.149911,51.504439
+446,Westminster,Hamilton Place (Intercontinental Hotel),8,24 hours,4761,,-0.1501101,51.5038725
+447,Westminster,Hanover Square,12,24 hours,4787,Also refreshment rank,-0.1433002,51.5139303
+448,Westminster,Harewood Avenue (feeder rank for Marylebone Station),10,24 hours,5823,,-0.1631669,51.5224906
+449,Westminster,Harley Street (Queen Anne Street),2,24 hours,4334,,-0.1465646,51.5181436
+450,Westminster,Harrowby Street (Victoria Casino),2,16:30 – 10:00,5219,,-0.1652105,51.5171346
+451,Westminster,Haymarket (Piccadilly),4,22:00 – 05:00,5856,,-0.1327023,51.5098233
+452,Westminster,Haymarket (Tiger Tiger Club),4,18.30 – 05.00,5853,"Shared use loading
+bay",-0.1325621,51.5096262
+453,Westminster,Haymarket (Theatre Royal),4,24 Hours,5854,,-0.1315554,51.5085064
+454,Westminster,Haymarket (Sports Bar),2,18:30 – 05:00,5855,Shared use parking bay,-0.131482,51.507916
+455,Westminster,Hyde Park Street (Bayswater Road),6,24 hours,3228,Rest rank R0006,-0.1675699,51.5124762
+456,Westminster,Hyde Park (Winter Wonderland),12,Only in operation during Winter Wonderland,5753,,-0.1657303,51.5072682
+457,Westminster,Inverness Place,3,    Rest rank between: 06:30 – 18:30     Working rank between: 18:30 – 06:30,5859,Rest Rank R0024,-0.1871213,51.5121758
+458,Westminster,Jermyn Street (rear of lay-by at No. 1),2,24 hours,5325,,-0.1364788,51.5085039
+459,Westminster,Jermyn Street (Tramps Nightclub),1,18:30 – 06:30,5363,"Shared use parking
+bay",-0.1376973,51.5081631
+460,Westminster,King Street (Christies Rooms),2,24 hours,5191,,-0.1293572,51.5021585
+461,Westminster,Knightsbridge Green,2,24 hours,5410,TLRN,-0.1624032,51.5011708
+462,Westminster,Knightsbridge (Mandarin Oriental Hotel),2,24 hours,5637,TLRN,-0.1600411,51.5021402
+463,Westminster,Lancaster Gate,4,24 hours,5431,Rest rank R0007,-0.1802482,51.5115786
+464,Westminster,Lancaster Gate (Plaza on Park Hotel),2,24 hours,5161,,-0.1821347,51.5114263
+465,Westminster,Leinster Gardens (Blakemore Hotel),2,24 hours,5036,,-0.1837431,51.5129736
+466,Westminster,Lowndes Street (Lowndes Hotel),2,24 hours,4492,,-0.1578025,51.499327
+467,Westminster,Lupus Street/St. George’s Square,13,24 hours,5495,Refreshment rank,-0.1348319,51.4887879
+468,Westminster,Mandeville Place (Mandeville Hotel),3,24 hours,4676,,-0.151025,51.516512
+469,Westminster,Marylebone High Street (Waitrose),2,24 hours,5440,,-0.1425596,51.4979888
+470,Westminster,Marylebone Road (Baker Street),12,24 hours,4404,Rest rank R0008,-0.1575292,51.5221846
+471,Westminster,Matthew Parker Street (QEII Centre),4,24 hours,4884,Rest rank R0009,-0.1289924,51.5002321
+472,Westminster,Millbank (Tate Gallery),2,24 hours,4364,,-0.1277886,51.4910621
+473,Westminster,Millbank (Media Centre),5,24 hours,5329,,-0.1259315,51.4923168
+474,Westminster,Montpelier Street,5,24 hours,5515,Rest Rank R0017,-0.1658526,51.4994412
+475,Westminster,New Bond Street (Ralph Lauren),3,24 hours,4623,,-0.141417,51.5098
+476,Westminster,New Bond Street (Clifford Street),4,24 hours,5099,Rest rank R0010,-0.142657,51.5105832
+477,Westminster,New Burlington Street (Samantha's),4,00:00 – 07:00,5065,,-0.1412106,51.512179
+478,Westminster,North Wharf Road,4,24 hours,5487,,-0.1757428,51.518776
+479,Westminster,North Wharf Road (Marks and Spencer),5,24 hours,5488,,-0.1745856,51.5186764
+480,Westminster,North Row (Marriott Park Lane Hotel),3,24 hours,6004,,-0.1577347,51.5131073
+481,Westminster,"Nutford Place (Mariott, Marble Arch Hotel)",4,24 hours,4574,,-0.1638719,51.5163883
+482,Westminster,Old Bond Street,4,24 hours,5317,Rest rank R0020,-0.1408325,51.5089159
+483,Westminster,Old Compton Street (Greek Street),3,18:30 – 06:30,5481,,-0.1304849,51.5134865
+484,Westminster,Old Park Lane,1,24 hours,5664,,-0.1494543,51.50449
+485,Westminster,Orchard Street (Marks and Spencer),2,24 hours,5617,,-0.1574353,51.5227595
+486,Westminster,Oxford Street (Selfridges),2,24 hours,5139,,-0.15257,51.51463
+487,Westminster,Oxford Street (John Lewis),3,24 hours,5611,,-0.1446755,51.5150136
+488,Westminster,Oxford Street (Debenhams),3,24 hours,5195,,-0.14778,51.51498
+489,Westminster,Oxford Street (Marks and Spencer),3,24 hours,5104,,-0.140927,51.497666
+490,Westminster,Pall Mall (RAC Club),2,24 hours,5432,,-0.1348245,51.5061025
+491,Westminster,Park Lane (Grosvenor House Hotel),8,19:00 – 07:00,5636,"TLRN
+Rear entrance of hotel/main entrance of ballroom",-0.1548081,51.5097377
+492,Westminster,Park Lane (Curzon Street),4,19:00 – 07:00,4852,TLRN,-0.1515537,51.5060569
+493,Westminster,Park Lane (Dorchester Hotel Ballroom),4,20:30 – 05:00,5541,TLRN,-0.1524156,51.5074354
+494,Westminster,Park Lane/Hamilton Place (London Hilton Hotel),17,24 hours,4762,,-0.1504005,51.5055041
+495,Westminster,Park Street (Grosvenor House Hotel),9,24 hours,5151,Main entrance of hotel/rear entrance of ballroom,-0.1548081,51.5097377
+496,Westminster,Piccadilly (Fortnum and Masons),3,24 hours,5715,,-0.1380641,51.5082341
+497,Westminster,Piccadilly (Le Meridian Waldorf Hotel),4,24 hours,5687,,-0.1363233,51.5094762
+498,Westminster,"Porchester Road, Paddington",4,    Rest rank between 03:00 – 22:00     Working rank between 22:00 – 03:00,5860,Rest Rank R0025,-0.1882745,51.5173677
+499,Westminster,Porchester Terrace (Thistle Kensington Gardens Hotel),2,24 hours,4213,,-0.1840993,51.5107453
+500,Westminster,Portland Place (The Langham),8,24 hours,5015,,-0.1439928,51.517801
+501,Westminster,Portman Square (The Churchill Hyatt Regency London Hotel),6,24 hours,4977,,-0.1570415,51.5154748
+502,Westminster,Praed Street,3,24 hours,5499,Rest rank R0011,-0.1726286,51.5172468
+503,Westminster,Queensborough Terrace (Central Park Hotel),3,24 hours,4529,,-0.1854595,51.5113738
+504,Westminster,Queensway (Whiteleys),3,24 hours,5653,,-0.1884652,51.5145883
+505,Westminster,Raphael Street (Zuma),3,18:30 – 08:30,5770,,-0.1631957,51.5009649
+506,Westminster,Rathbone Street (Rathbone Hotel),1,24 hours,5141,,-0.135526,51.518697
+507,Westminster,Regent Street (Hamley's),6,24 hours,5809,,-0.140164,51.512782
+508,Westminster,Regent Street (Heddon Street),8,00:00 – 04:00,5779,,-0.138867,51.5110146
+509,Westminster,Regent Street (Piccadilly Circus/Lillywhites),4,24 hours,4978,,-0.1343405,51.5097487
+510,Westminster,Regent Street (Swallow Street),6,20:00 – 06:00,5975,,-0.1377179,51.5100329
+511,Westminster,Russell Street (Covent Garden),5,24 hours,5395,"Part rest rank
+R0012",-0.1207663,51.5129069
+512,Westminster,Royal Albert Hall (Kensington Gore),2,21:00 – 00:00,5518,,-0.177366,51.5009088
+513,Westminster,Seymour Place (Marylebone Court),1,    Monday to Friday operates between: 09:00 – 16:30     Saturday operates between: 09:00 – 13:00,5742,,-0.1644,51.5206705
+514,Westminster,Seymour Street (Leonard Hotel),1,24 hours,5672,,-0.157873,51.514712
+515,Westminster,Smith Square (east side),1,24 hours,4898,,-0.127072,51.4961331
+516,Westminster,South Wharf Road (St. Mary’s Hospital),2,24 hours,5434,,-0.1742942,51.517907
+517,Westminster,St. James’s Square (The In and Out Club/Naval Military Club),1,24 hours,5799,,-0.1348445,51.5080112
+518,Westminster,"St. James’s Square (South West Arm, East India Club)",1,24 hours,5800,,-0.1365265,51.5071758
+519,Westminster,St. James’s Street (Bennet Street),4,24 hours,5713,,-0.1399941,51.5072297
+520,Westminster,St. James’s Street (Park Place),2,24 hours,5714,,-0.1394065,51.5066394
+521,Westminster,St. John’s Wood Road (Lords),6,24 hours,5294,TLRN,-0.1709003,51.528861
+522,Westminster,St. Martin’s Lane (St. Martins Lane Hotel),3,24 hours,5364,,-0.1267414,51.5104815
+523,Westminster,St. Martin’s Lane,3,24 hours,6033,Rest rank,-0.1269651,51.5107377
+524,Westminster,Strand (opposite Australia House),3,24 hours,5473,Rest Rank R0019,-0.115452,51.5127209
+525,Westminster,Strand (St. Clement Danes Church),10,24 hours,4859,"Part rest rank
+R0013",-0.1141015,51.5130722
+526,Westminster,Strand (feeder rank to Charing Cross Station),6,24 hours,5281,,-0.1261947,51.5080336
+527,Westminster,Stratton Street (May Fair Hotel),6,24 hours,5351,,-0.1438752,51.5081573
+528,Westminster,Stratton Street (Langan’s),2,24 hours,3451,,-0.1434394,51.5070379
+529,Westminster,Suffolk Place,2,24 hours,5596,,-0.1310752,51.5082013
+530,Westminster,Temple Place,9,24 hours,4627,"Also refreshment
+rank",-0.1136897,51.5112898
+531,Westminster,Upper Berkeley Street/Montagu Street (Radisson Blu Portman Hotel),5,24 hours,4478,,-0.157789,51.516179
+532,Westminster,Upper St. Martin’s Lane (Stringfellows),2,    Rest rank between: 08:30 - 18.30     Working rank between: 18.30 - 08.30,5875,,-0.12688,51.5122374
+533,Westminster,Victoria Embankment (Walkabout),3,19.00 – 07.00,5890,"TLRN
+Shared use loading bay",-0.12181,51.507206
+534,Westminster,Victoria Station (Hudson’s Place/Bridge Place/ Vauxhall Bridge Road),36,24 hours,5743,TLRN,-0.1438979,51.4952103
+535,Westminster,Vigo Street,2,24 hours,5778,,-0.1389801,51.5102636
+536,Westminster,Wardour Street (Humus Bros Restaurant),3,24 hours,5468,,-0.1337818,51.5133627
+537,Westminster,Wardour Street (W Hotel),2,24 hours,5016,,-0.1314287,51.510843
+538,Westminster,Wardour Street (Stringfellows Angels),3,22:00 – 03:00,5580,,-0.135862,51.515686
+539,Westminster,Warwick Avenue (St. Saviours Church),18,2nd  portion operates Monday – Friday between 08.30 –18.30,5702,Refreshment rank,-0.1841365,51.5235892
+540,Westminster,Welbeck Street (The Marylebone Hotel),3,24 hours,4871,,-0.1497273,51.518104
+541,Westminster,Welbeck Street (Holiday Inn),2,24 hours,4171,,-0.149556,51.5168442
+542,Westminster,Wellington Place,10,24 hours,4699,"Also refreshment
+rank",-0.1704054,51.5316421
+543,Westminster,Wellington Street (Lyceum Theatre),3,17:00 – 06:00,6015,,-0.1199872,51.5115961
+544,Westminster,Wells Street (Project London),2,00:00 – 06:00,5074,,-0.137242,51.516312
+545,Westminster,West Halkin Street (Waitrose),2,24 hours,5463,,-0.1371766,51.4974428
+546,Westminster,Westbourne Street (Royal Lancaster),7,24 hours,4479,,-0.1750956,51.5123875
+547,Westminster,Whitcomb Street (Panton Street),7,23:00 – 07:00,5671,,-0.1310398,51.5098487
+548,Westminster,Whitehall Place (Corinthia Hotel),4,24 hours,5993,,-0.1243667,51.5064645
+549,Westminster,Whitehall Court (Royal Horseguards Hotel),4,24 hours,5681,,-0.1242874,51.5057775
+550,Westminster,Wilton Place (Berkeley Hotel),4,24 hours,4968,,-0.1561406,51.5019889
+551,Hillingdon,Heathrow,20,24 hours,N/A,,-0.425642,51.476932
